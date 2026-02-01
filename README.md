@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./src/assets/logo.svg" alt="Visualysis Logo" width="120" />
+  <img src="./img/logo.svg" alt="Visualysis Logo" width="120" />
 
   # VISUALYSIS
   
